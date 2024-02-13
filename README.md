@@ -26,6 +26,6 @@ Once the setup is complete, initiate the worm's deployment from Ubuntu 1. Monito
 ### Contributing
 Contributions to RickRollWorm.py are welcome! Feel free to suggest improvements, report bugs, or submit pull requests. Please review our contribution guidelines before making changes.
 ### License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the GNU [General Pu
 ### Acknowledgements
 We would like to thank [Fullstack Academy](https://www.fullstackacademy.com/) for providing the opportunity to work on this project and learn valuable skills in cybersecurity and network programming.
